@@ -1,0 +1,426 @@
+{
+    "name": "Viral Load Pregnant and Breastfeeding",
+    "periodType": "Monthly",
+    "created": 1767011159984,
+    "dataSetUID": "jhiRDT5jYti",
+    "periodIndicatorReportGUID": "7b0e0a97-0012-43e7-8a1b-79d4812c2562",
+    "elements": [
+        {
+            "indicator": "Under15_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "EaAdm9Hk590"
+        },
+        { 
+            "indicator": "15-19y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "uFGP6jRpoEQ"
+
+        },
+        {
+            "indicator": "20-24y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "Re4zF1oz7MM"
+
+        },
+        {
+            "indicator": "40-44y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_ps",
+            "dataElement": "lJS81Uv9EPz",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator": "Under15_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "EaAdm9Hk590"
+        },
+        {
+            "indicator": "15-19y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "uFGP6jRpoEQ"
+
+        },
+        {
+            "indicator": "20-24y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "Re4zF1oz7MM"
+
+        },
+        {
+            "indicator": "40-44y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_bs",
+            "dataElement": "o1OwE3SEMlX",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator":  "Under15_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "EaAdm9Hk590"
+
+        },
+        {
+            "indicator": "15-19y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "Re4zF1oz7MM"
+
+        },
+        {
+            "indicator": "40-44y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "c2d15J9W4qg"
+            
+        },
+        {
+            "indicator": "45-49y_pd",
+            "dataElement": "OhIfCzk0Dcp",
+            "comboOption": "VqWh1RXFDPe" 
+        },
+        {
+            "indicator": "Under15_bd",
+            "dataElement":"RB6isoTKXnL",
+            "comboOption": "EaAdm9Hk590"
+        },
+        {
+            "indicator": "15-19y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "oODYDGj7j6d" 
+        },
+        {
+            "indicator": "25-29y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "Re4zF1oz7MM"
+        },
+        {
+            "indicator": "40-44y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_bd",
+            "dataElement": "RB6isoTKXnL",
+            "comboOption": "VqWh1RXFDPe"         
+        },
+        {
+            "indicator": "Under15_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "EaAdm9Hk590"
+
+        },
+        {
+            "indicator": "15-19y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "Re4zF1oz7MM"
+        },
+        {
+            "indicator": "40-44y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_pr",
+            "dataElement": "em1h1xAueAx",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator":"Under15_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "EaAdm9Hk590"
+        },
+        {
+            "indicator": "15-19y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "uFGP6jRpoEQ"    
+        },
+        {
+            "indicator": "20-24y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "xqOklbTVsEF"    
+        },
+        {
+            "indicator": "30-34y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "Re4zF1oz7MM"
+        },
+        {
+            "indicator": "40-44y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_br",
+            "dataElement": "k1DF1qBYR0M",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator": "Under15_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "EaAdm9Hk590"
+
+        },
+        {
+            "indicator": "15-19y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "Re4zF1oz7MM"
+        },
+        {
+            "indicator": "40-44y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_pt",
+            "dataElement": "KbgIDOaYjLS",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator": "Under15_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "EaAdm9Hk590"
+
+        },
+        {
+            "indicator": "15-19y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "UtSbyCi7wgT"
+        }, 
+        {
+            "indicator": "35-39y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "Re4zF1oz7MM"
+
+        },
+        {
+            "indicator": "40-44y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_bt",
+            "dataElement": "iPr1udE92kF",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator": "Under15_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "EaAdm9Hk590"
+
+        },
+        {
+            "indicator": "15-19y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "uFGP6jRpoEQ"
+        },
+        {
+            "indicator": "20-24y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "xqOklbTVsEF"
+        },
+        {
+            "indicator": "30-34y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "UtSbyCi7wgT"        
+        },
+        {
+            "indicator": "35-39y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "Re4zF1oz7MM"
+
+        },
+        {
+            "indicator": "40-44y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "c2d15J9W4qg"
+
+        },
+        {
+            "indicator": "45-49y_pv",
+            "dataElement": "DsyWz1IzaQz",
+            "comboOption": "VqWh1RXFDPe"
+        },
+        {
+            "indicator": "Under15_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "EaAdm9Hk590"
+
+        },      
+        {
+            "indicator": "15-19y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "uFGP6jRpoEQ"
+        }, 
+        {
+            "indicator": "20-24y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "oODYDGj7j6d"
+        },
+        {
+            "indicator": "25-29y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "xqOklbTVsEF"
+ 
+        },
+        {
+            "indicator": "30-34y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "UtSbyCi7wgT"
+        },
+        {
+            "indicator": "35-39y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "Re4zF1oz7MM"
+        },
+        {
+            "indicator": "40-44y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "c2d15J9W4qg"
+        },
+        {
+            "indicator": "45-49y_bv",
+            "dataElement": "u6H37ZcCsDR",
+            "comboOption": "VqWh1RXFDPe"
+        }
+        
+    ]
+}
