@@ -1,0 +1,89 @@
+{
+    "name": "TPT_Mapping",
+    "periodType": "Monthly",
+    "created": 1776260206618,
+    "dataSetUID": "ps5Yaez5cYL",
+    "periodIndicatorReportGUID": "ccd105bd-6ec3-4478-abd9-9494f76d7af3",
+    "elements": [
+        {
+            "indicator": "<15M_eli",
+            "dataElement": "JjVuEcxnVwi",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator" : "<15F_eli",
+            "dataElement": "JjVuEcxnVwi",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "15plusM_el",
+            "dataElement": "JjVuEcxnVwi",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "15plusF_el",
+            "dataElement": "JjVuEcxnVwi",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15M_st",
+            "dataElement" : "TCldsduSWCx",
+            "comboOption" : "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15F_st",
+            "dataElement": "TCldsduSWCx",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator":"15plusM_st",
+            "dataElement":"TCldsduSWCx",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator":"15plusF_st",
+            "dataElement":"TCldsduSWCx",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator":"<15M_curr",
+            "dataElement": "btIQ5xP1Mat",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator":"<15F_curr",
+            "dataElement":"btIQ5xP1Mat",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator":"15plusM_cu",
+            "dataElement":"btIQ5xP1Mat",
+            "comboOption":"z12EITtQb34"
+        },
+        {
+            "indicator":"15plusF_cu",
+            "dataElement":"btIQ5xP1Mat",
+            "comboOption":"iEFWXqdhqg9"
+        },
+        {
+            "indicator":"<15M_com",
+            "dataElement":"Nl9iM0UK7Vf",
+            "comboOption" :"gIRokZTOVff"
+        },
+        {
+            "indicator":"<15F_com",
+            "dataElement":"Nl9iM0UK7Vf",
+            "comboOption":"WBH8uUpt9Pj"
+        },
+        {
+            "indicator":"15plusM_co",
+            "dataElement":"Nl9iM0UK7Vf",
+            "comboOption":"z12EITtQb34"
+        },
+        {
+            "indicator":"15plusF_co",
+            "dataElement":"Nl9iM0UK7Vf",
+            "comboOption":"iEFWXqdhqg9"
+        }
+    ]
+}
