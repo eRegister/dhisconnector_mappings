@@ -1,0 +1,50 @@
+{
+    "name": "2026_Cormobidities_CaCx_Mapping",
+    "periodType": "Monthly",
+    "created": 1778065804117,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "cc6c5dd0-89dc-494a-9d03-760b835e1d86",
+    "elements": [
+        {
+            "indicator": "screenAdF",
+            "dataElement": "R9dp9BHdHDO",
+            "comboOption": "rKfUQfB2y9M"
+        },
+        {
+            "indicator": "screenChF",
+            "dataElement": "R9dp9BHdHDO",
+            "comboOption": "zesFxMvCa1h"
+        },
+        {
+            "indicator": "diagAdF",
+            "dataElement": "KqKGY7CYIWX",
+            "comboOption": "rKfUQfB2y9M"
+        },
+        {
+            "indicator": "diagChF",
+            "dataElement": "KqKGY7CYIWX",
+            "comboOption": "zesFxMvCa1h"
+        },
+        {
+            "indicator": "startedAdF",
+            "dataElement": "TE0q2UvcHFa",
+            "comboOption": "rKfUQfB2y9M"
+        },
+        {
+            "indicator": "startedChF",
+            "dataElement": "TE0q2UvcHFa",
+            "comboOption": "zesFxMvCa1h"
+        },
+        {
+            "indicator": "withAdF",
+            "dataElement": "CVeRzoiBLBb",
+            "comboOption": "rKfUQfB2y9M"
+        },
+        {
+            "indicator": "withChF",
+            "dataElement": "CVeRzoiBLBb",
+            "comboOption": "zesFxMvCa1h"
+        }
+       
+    ]
+}

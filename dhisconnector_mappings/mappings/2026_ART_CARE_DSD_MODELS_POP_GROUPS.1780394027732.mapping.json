@@ -1,0 +1,205 @@
+{
+    "name": "2026_ART_CARE_DSD_MODELS_POP_GROUPS",
+    "periodType": "Monthly",
+    "created": 1780394027732,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "8f1a7ea4-a3bb-4ec3-8cb8-77252ff1121e",
+    "elements": [
+        {
+            "indicator": "MSM",
+            "dataElement": "Rqq7sObTr64",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "GenPopM",
+            "dataElement": "oD3mX1mT2KX",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "GenPopF",
+            "dataElement": "oD3mX1mT2KX",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "BFWomen",
+            "dataElement": "NDEum0Jkpra",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "PregWomen",
+            "dataElement": "jyIJxlSy62n",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "PWIDM",
+            "dataElement": "UaeulCSfJtN",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "PWIDF",
+            "dataElement": "UaeulCSfJtN",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "InmatesM",
+            "dataElement": "LjOE8u77AgL",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "InmatesF",
+            "dataElement": "LjOE8u77AgL",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "SexWorkerM",
+            "dataElement": "lH3yZYdzJym",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "SexWorkerF",
+            "dataElement": "lH3yZYdzJym",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "TransM",
+            "dataElement": "J7a8kvEkjnE",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "TransF",
+            "dataElement": "J7a8kvEkjnE",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "dsdCAGSM",
+            "dataElement": "kB5bVzUbnzr",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "dsdCAGSF",
+            "dataElement": "kB5bVzUbnzr",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "dsdCADM",
+            "dataElement": "Cl8pXOk5zrX",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "dsdCADF",
+            "dataElement": "Cl8pXOk5zrX",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "bonoloM",
+            "dataElement": "feEwWnqcvQ4",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "bonoloF",
+            "dataElement": "feEwWnqcvQ4",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "TeenClubsM",
+            "dataElement": "MV4Yf7ioh43",
+            "comboOption": "yQOJlQWby7N"
+        },
+        {
+            "indicator": "TeenClubsF",
+            "dataElement": "MV4Yf7ioh43",
+            "comboOption": "Y3jbGgZav4m"
+        },
+        {
+            "indicator": "MotBaby",
+            "dataElement": "t2bcdQjz5qe",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "MensClinic",
+            "dataElement": "MWGMeJmRyHk",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "transInM",
+            "dataElement": "est69tcCgA4",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "transInF",
+            "dataElement": "Iyd8cCxk9qZ",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "transOutM",
+            "dataElement": "pNzzGjagfxf",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "transOutF",
+            "dataElement": "ZbqKnhVHErw",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "restartM",
+            "dataElement": "IGhOTz2B3cM",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "restartF",
+            "dataElement": "wCTbraQqM50",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "deathsM",
+            "dataElement": "CZ6Nyx26FIj",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "deathsF",
+            "dataElement": "CvCDLPvTfLi",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "IniDiedM",
+            "dataElement": "vQiZTsG7BUe",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "IniDiedF",
+            "dataElement": "vQiZTsG7BUe",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "IniTOM",
+            "dataElement": "yi8QYkGcSQo",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "IniTOF",
+            "dataElement": "DMG9732HE8v",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "stoppedM",
+            "dataElement": "YNDLY9fKQoJ",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "stoppedF",
+            "dataElement": "jzANvKS7Vy6",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "lost>28M",
+            "dataElement": "R6zHUd0K42B",
+            "comboOption": "tUiK0vlsDaX"
+        },
+        {
+            "indicator": "lost>28F",
+            "dataElement": "k6a33vvyeq4",
+            "comboOption": "tUiK0vlsDaX"
+        }
+
+    ]
+}

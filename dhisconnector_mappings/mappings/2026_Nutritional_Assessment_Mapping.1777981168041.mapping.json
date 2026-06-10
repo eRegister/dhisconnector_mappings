@@ -1,0 +1,90 @@
+{
+    "name": "2026_Nutritional_Assessment_Mapping",
+    "periodType": "Monthly",
+    "created": 1777981168041,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "850b0562-0e87-4f8a-826d-fcfd023cdf42",
+    "elements": [
+        {
+            "indicator": "MAMAdF",
+            "dataElement": "m8I031wVpNK",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "MAMAdM",
+            "dataElement": "m8I031wVpNK",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "MAMChF",
+            "dataElement": "m8I031wVpNK",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "MAMChM",
+            "dataElement": "m8I031wVpNK",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "SAMAdF",
+            "dataElement": "GyMfAnuy8Xl",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "SAMAdM",
+            "dataElement": "GyMfAnuy8Xl",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "SAMChF",
+            "dataElement": "GyMfAnuy8Xl",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "SAMChM",
+            "dataElement": "GyMfAnuy8Xl",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "assessAdF",
+            "dataElement": "qWsqcu7iQpt",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "assessAdM",
+            "dataElement": "qWsqcu7iQpt",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "assessChF",
+            "dataElement": "qWsqcu7iQpt",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "assessChM",
+            "dataElement": "qWsqcu7iQpt",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "givenAdF",
+            "dataElement": "EMXuB1RthSN",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "givenAdM",
+            "dataElement": "EMXuB1RthSN",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "givenChF",
+            "dataElement": "EMXuB1RthSN",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "givenChM",
+            "dataElement": "EMXuB1RthSN",
+            "comboOption": "gIRokZTOVff"
+        }
+
+    ]
+}

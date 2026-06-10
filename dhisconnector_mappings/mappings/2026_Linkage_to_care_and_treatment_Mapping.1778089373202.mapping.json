@@ -1,0 +1,69 @@
+{
+    "name": "2026_Linkage_to_care_and_treatment_Mapping",
+    "periodType": "Monthly",
+    "created": 1778089373202,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "a28aad5d-1024-42a2-9213-7ed3a4ea1823",
+    "elements": [
+        {
+            "indicator": "LinkSamAdF",
+            "dataElement": "VvPljTKf5rf",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "LinkSamAdM",
+            "dataElement": "VvPljTKf5rf",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "LinkSamChF",
+            "dataElement": "VvPljTKf5rf",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "LinkSamChM",
+            "dataElement": "VvPljTKf5rf",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "Link2WkAdF",
+            "dataElement": "dvq1e347t1O",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "Link2WkAdM",
+            "dataElement": "dvq1e347t1O",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "Link2WkChF",
+            "dataElement": "dvq1e347t1O",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "Link2WkChM",
+            "dataElement": "dvq1e347t1O",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "LinkPMAdF",
+            "dataElement": "QcscpJf8VTb",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "LinkPMAdM",
+            "dataElement": "QcscpJf8VTb",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "LinkPMChF",
+            "dataElement": "QcscpJf8VTb",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "LinkPMChM",
+            "dataElement": "QcscpJf8VTb",
+            "comboOption": "gIRokZTOVff"
+        }
+    ]
+}
