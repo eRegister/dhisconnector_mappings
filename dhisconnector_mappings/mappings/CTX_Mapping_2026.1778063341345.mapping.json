@@ -1,1 +1,49 @@
-{"name":"CTX_Mapping_2026","periodType":"Monthly","created":1778063341345,"dataSetUID":"p9Ue2PSnF0E","periodIndicatorReportGUID":"8dc80efd-3c35-4d1a-ad4e-5f9f26caeaf5","elements":[{"indicator":"CTX_F1-4","dataElement":"p5keidXD1VS","comboOption":"BtW22GNHq2U"}]}
+{
+  "name": "CTX_Mapping_2026",
+  "periodType": "Monthly",
+  "created": 1778063341345,
+  "dataSetUID": "p9Ue2PSnF0E",
+  "periodIndicatorReportGUID": "8dc80efd-3c35-4d1a-ad4e-5f9f26caeaf5",
+  "elements": [
+    {
+      "indicator": "CTX_F1-4",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "azORoChO5GZ"
+    },
+    {
+      "indicator": "CTX_F5-14",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "Z7LThsUODoq"
+    },
+    {
+      "indicator": "CTX_F<1",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "a7KiQfukOv5"
+    },
+    {
+      "indicator": "CTX_FAdult",
+      "dataElement": "hzmim6AOgKv",
+      "comboOption": "iEFWXqdhqg9"
+    },
+    {
+      "indicator": "CTX_M1-4",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "iP2X0W9vnxw"
+    },
+    {
+      "indicator": "CTX_M5-14",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "GP1NuAELSEp"
+    },
+    {
+      "indicator": "CTX_M<1",
+      "dataElement": "XNCFUIQZMWP",
+      "comboOption": "I3NCjLb4hSS"
+    },
+    {
+      "indicator": "CTX_MAdult",
+      "dataElement": "hzmim6AOgKv",
+      "comboOption": "z12EITtQb34"
+    }
+ ]
+}
