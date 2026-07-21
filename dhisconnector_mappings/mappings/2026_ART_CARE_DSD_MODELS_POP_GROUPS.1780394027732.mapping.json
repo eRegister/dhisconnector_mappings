@@ -3,12 +3,12 @@
     "periodType": "Monthly",
     "created": 1780394027732,
     "dataSetUID": "p9Ue2PSnF0E",
-    "periodIndicatorReportGUID": "8f1a7ea4-a3bb-4ec3-8cb8-77252ff1121e",
+    "periodIndicatorReportGUID": "dab46cf2-b81e-4062-a1ed-6b5e9f5969dd",
     "elements": [
         {
             "indicator": "MSM",
             "dataElement": "Rqq7sObTr64",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "GenPopM",
@@ -23,12 +23,12 @@
         {
             "indicator": "BFWomen",
             "dataElement": "NDEum0Jkpra",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "PregWomen",
-            "dataElement": "jyIJxlSy62n",
-            "comboOption": "tUiK0vlsDaX"
+            "dataElement": "jylJxISy62n",
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "PWIDM",
@@ -113,92 +113,92 @@
         {
             "indicator": "MotBaby",
             "dataElement": "t2bcdQjz5qe",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "MensClinic",
             "dataElement": "MWGMeJmRyHk",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "transInM",
             "dataElement": "est69tcCgA4",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "transInF",
             "dataElement": "Iyd8cCxk9qZ",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "transOutM",
             "dataElement": "pNzzGjagfxf",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "transOutF",
             "dataElement": "ZbqKnhVHErw",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "restartM",
-            "dataElement": "IGhOTz2B3cM",
-            "comboOption": "tUiK0vlsDaX"
+            "dataElement": "lGhOTz2B3cM",
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "restartF",
             "dataElement": "wCTbraQqM50",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "deathsM",
-            "dataElement": "CZ6Nyx26FIj",
-            "comboOption": "tUiK0vlsDaX"
+            "dataElement": "CZ6Nyx26Flj",
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "deathsF",
-            "dataElement": "CvCDLPvTfLi",
-            "comboOption": "tUiK0vlsDaX"
+            "dataElement": "CvCDLPvTflI",
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "IniDiedM",
             "dataElement": "vQiZTsG7BUe",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "IniDiedF",
             "dataElement": "vQiZTsG7BUe",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "IniTOM",
             "dataElement": "yi8QYkGcSQo",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "IniTOF",
             "dataElement": "DMG9732HE8v",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "stoppedM",
             "dataElement": "YNDLY9fKQoJ",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "stoppedF",
             "dataElement": "jzANvKS7Vy6",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         },
         {
             "indicator": "lost>28M",
             "dataElement": "R6zHUd0K42B",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "yQOJlQWby7N"
         },
         {
             "indicator": "lost>28F",
             "dataElement": "k6a33vvyeq4",
-            "comboOption": "tUiK0vlsDaX"
+            "comboOption": "Y3jbGgZav4m"
         }
 
     ]

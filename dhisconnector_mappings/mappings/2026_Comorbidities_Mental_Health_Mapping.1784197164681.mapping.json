@@ -1,0 +1,170 @@
+{
+    "name": "2026_Comorbidities_Mental_Health_Mapping",
+    "periodType": "Monthly",
+    "created": 1784197164681,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "7bb563f1-2265-4777-9f88-d6e3886b12b3",
+    "elements": [
+        {
+            "indicator": "<15screDpM",
+            "dataElement": "Ve3bkuTfRCj",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15screDpF",
+            "dataElement": "Ve3bkuTfRCj",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15screDpM",
+            "dataElement": "Ve3bkuTfRCj",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15screDpF",
+            "dataElement": "Ve3bkuTfRCj",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15diagDpM",
+            "dataElement": "zqTJfNpS9dm",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15diagDpF",
+            "dataElement": "zqTJfNpS9dm",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15diagDpM",
+            "dataElement": "zqTJfNpS9dm",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15diagDpF",
+            "dataElement": "zqTJfNpS9dm",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15RxDpM",
+            "dataElement": "RKpGyxeDO0T",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15RxDpF",
+            "dataElement": "RKpGyxeDO0T",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15RxDpM",
+            "dataElement": "RKpGyxeDO0T",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15RxDpF",
+            "dataElement": "RKpGyxeDO0T",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15screGDM",
+            "dataElement": "FHAfXIWc4VP",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15screGDF",
+            "dataElement": "FHAfXIWc4VP",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15screGDM",
+            "dataElement": "FHAfXIWc4VP",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15screGDF",
+            "dataElement": "FHAfXIWc4VP",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15diagGDM",
+            "dataElement": "qPlKQ8G9AqP",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15diagGDF",
+            "dataElement": "qPlKQ8G9AqP",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15diagGDM",
+            "dataElement": "qPlKQ8G9AqP",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15diagGDF",
+            "dataElement": "qPlKQ8G9AqP",
+            "comboOption": "iEFWXqdhqg9"
+        },
+         {
+            "indicator": "<15RxGDM",
+            "dataElement": "qBs8o5VPxx8",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15RxGDF",
+            "dataElement": "qBs8o5VPxx8",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15RxGDM",
+            "dataElement": "qBs8o5VPxx8",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15RxGDF",
+            "dataElement": "qBs8o5VPxx8",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15diagSUM",
+            "dataElement": "mA6Kc7c4nRD",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15diagSUF",
+            "dataElement": "mA6Kc7c4nRD",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15diagSUM",
+            "dataElement": "mA6Kc7c4nRD",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15diagSUF",
+            "dataElement": "mA6Kc7c4nRD",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "<15diagOmM",
+            "dataElement": "AbZOue0gHKw",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "<15diagOmF",
+            "dataElement": "AbZOue0gHKw",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": ">15diagOmM",
+            "dataElement": "AbZOue0gHKw",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": ">15diagOmF",
+            "dataElement": "AbZOue0gHKw",
+            "comboOption": "iEFWXqdhqg9"
+        }
+        
+    ]
+}

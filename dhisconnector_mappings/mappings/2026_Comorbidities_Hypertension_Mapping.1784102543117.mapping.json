@@ -1,0 +1,89 @@
+{
+    "name": "2026_Comorbidities_Hypertension_Mapping",
+    "periodType": "Monthly",
+    "created": 1784102543117,
+    "dataSetUID": "p9Ue2PSnF0E",
+    "periodIndicatorReportGUID": "bb5568cb-cb6f-44b9-adde-d9cc54626858",
+    "elements": [
+        {
+            "indicator": "ScrnMHTNch",
+            "dataElement": "JZrZEZBiN17",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "ScrnFHTNch",
+            "dataElement": "JZrZEZBiN17",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "ScrnMHTNad",
+            "dataElement": "JZrZEZBiN17",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "ScrnFHTNad",
+            "dataElement": "JZrZEZBiN17",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "DiagMHTNch",
+            "dataElement": "eH1SnOdGQUn",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "DiagFHTNch",
+            "dataElement": "eH1SnOdGQUn",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "DiagMHTNad",
+            "dataElement": "eH1SnOdGQUn",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "DiagFHTNad",
+            "dataElement": "eH1SnOdGQUn",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "DiagTxMCh",
+            "dataElement": "OizzHnCByk7",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "DiagTxFCh",
+            "dataElement": "OizzHnCByk7",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "DiagTxMAd",
+            "dataElement": "OizzHnCByk7",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "DiagTxFAd",
+            "dataElement": "OizzHnCByk7",
+            "comboOption": "iEFWXqdhqg9"
+        },
+        {
+            "indicator": "HTNMch",
+            "dataElement": "VB93fUpSkCS",
+            "comboOption": "gIRokZTOVff"
+        },
+        {
+            "indicator": "HTNFch",
+            "dataElement": "VB93fUpSkCS",
+            "comboOption": "WBH8uUpt9Pj"
+        },
+        {
+            "indicator": "HTNMAd",
+            "dataElement": "VB93fUpSkCS",
+            "comboOption": "z12EITtQb34"
+        },
+        {
+            "indicator": "HTNFAd",
+            "dataElement": "VB93fUpSkCS",
+            "comboOption": "iEFWXqdhqg9"
+        }
+    ]
+}
