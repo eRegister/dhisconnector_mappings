@@ -1,0 +1,244 @@
+{
+  "name": "2026_HIV_Testing_by_Population_Groups_ART_Mapping",
+  "periodType": "Monthly",
+  "created": 1787238132599,
+  "dataSetUID": "ds4TGKprxHe",
+  "attributeOptionCombo": "znQPjOCHsqD",
+  "periodIndicatorReportGUID": "e9f8db2a-4e34-49ad-b0ad-18798acb9883",
+
+  "elements": [
+    {
+        "indicator": "ARTMPos01",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "DqsZp87mCfn"
+    },
+    {
+        "indicator": "ARTFPos01",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "cav95q9dEQg"
+    },
+    {
+        "indicator": "ARTMPos02",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "CPRKf51WsR0"
+    },
+    {
+        "indicator": "ARTMPos02",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "caoEYiFkaDD"
+    },
+    {
+        "indicator": "ARTMPos03",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "Op6NqndhDIk"
+    },
+    {
+        "indicator": "ARTFPos03",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "nYj1bgdRtBa"
+    },
+    {
+        "indicator": "ARTMPos04",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "RdEO5AQOdEA"
+    },
+    {
+        "indicator": "ARTFPos04",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "qiVWO4ncqFG"
+    },
+    {
+        "indicator": "ARTMPos05",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "x0eutlERFd4"
+    },
+    {
+        "indicator": "ARTFPos05",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+    {
+        "indicator": "ARTMPos06",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "S8nS6ZJcaIR"
+        
+    },
+    {
+        "indicator": "ARTFPos06",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+    {
+        "indicator": "ARTMPos07",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "bqBswSPMeYS"
+      
+    },
+    {
+       "indicator": "ARTFPos07",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "rfU1wksAsMD"
+    },
+
+
+
+
+    {
+        "indicator": "ARTMNeg01",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "DqsZp87mCfn"
+    },
+    {
+        "indicator": "ARTFNeg01",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "cav95q9dEQg"
+    },
+    {
+        "indicator": "ARTMNeg02",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "CPRKf51WsR0"
+    },
+    {
+        "indicator": "ARTFNeg02",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "caoEYiFkaDD"
+    },
+    {
+        "indicator": "ARTMNeg03",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "Op6NqndhDIk"
+    },
+    {
+        "indicator": "ARTFNeg03",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "nYj1bgdRtBa"
+    },
+    {
+        "indicator": "ARTMNeg04",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "RdEO5AQOdEA"
+    },
+    {
+        "indicator": "ARTFNeg04",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "qiVWO4ncqFG"
+    },
+    {
+        "indicator": "ARTMNeg05",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "x0eutlERFd4"
+    },
+    {
+        "indicator": "ARTFNeg05",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+    {
+        "indicator": "ARTMNeg06",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "S8nS6ZJcaIR"
+        
+    },
+    {
+        "indicator": "ARTFNeg06",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+    {
+        "indicator": "ARTMNeg07",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "bqBswSPMeYS"
+      
+    },
+    {
+       "indicator": "ARTFNeg07",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "rfU1wksAsMD"
+    },
+
+
+
+
+
+
+    {
+        "indicator": "ARTMInd01",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "DqsZp87mCfn"
+    },
+    {
+        "indicator": "ARTFInd01",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "cav95q9dEQg"
+    },
+    {
+        "indicator": "ARTMInd02",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "CPRKf51WsR0"
+    },
+    {
+        "indicator": "ARTFInd02",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "caoEYiFkaDD"
+    },
+    {
+        "indicator": "ARTMInd03",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "Op6NqndhDIk"
+    },
+    {
+        "indicator": "ARTFInd03",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "nYj1bgdRtBa"
+    },
+    {
+        "indicator": "ARTMInd04",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "RdEO5AQOdEA"
+    },
+    {
+        "indicator": "ARTFInd04",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "qiVWO4ncqFG"
+    },
+    {
+        "indicator": "ARTMInd05",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "x0eutlERFd4"
+    },
+    {
+        "indicator": "ARTFInd05",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+    {
+        "indicator": "ARTMInd06",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "S8nS6ZJcaIR"
+        
+    },
+    {
+        "indicator": "ARTFInd06",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+    {
+        "indicator": "ARTMInd07",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "bqBswSPMeYS"
+      
+    },
+    {
+       "indicator": "ARTFInd07",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "rfU1wksAsMD"
+    }
+]
+
+}

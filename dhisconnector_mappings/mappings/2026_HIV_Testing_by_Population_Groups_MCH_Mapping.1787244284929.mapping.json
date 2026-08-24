@@ -1,0 +1,129 @@
+{
+  "name": "2026_HIV_Testing_by_Population_Groups_MCH_Mapping",
+  "periodType": "Monthly",
+  "created": 1787244284929,
+  "dataSetUID": "ds4TGKprxHe",
+  "attributeOptionCombo": "QLEU2hdFoy7",
+  "periodIndicatorReportGUID": "e831c1c1-d47f-4e96-b453-4abe30957b64",
+
+  "elements": [
+
+    {
+        "indicator": "MCHFPos01",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "cav95q9dEQg"
+    },
+    {
+        "indicator": "MCHFPos03",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "nYj1bgdRtBa"
+    },
+  
+    {
+        "indicator": "MCHFPos04",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "qiVWO4ncqFG"
+    },
+ 
+    {
+        "indicator": "MCHFPos05",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+
+    {
+        "indicator": "MCHFPos06",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+  
+    {
+       "indicator": "MCHFPos07",
+        "dataElement": "RrkyxgeJM3n",
+        "comboOption": "rfU1wksAsMD"
+    },
+
+
+
+
+ 
+    {
+        "indicator": "MCHFNeg01",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "cav95q9dEQg"
+    },
+   
+  
+    {
+        "indicator": "MCHFNeg03",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "nYj1bgdRtBa"
+    },
+
+    {
+        "indicator": "MCHFNeg04",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "qiVWO4ncqFG"
+    },
+
+    {
+        "indicator": "MCHFNeg05",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+ 
+    {
+        "indicator": "MCHFNeg06",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+
+    {
+       "indicator": "MCHFNeg07",
+        "dataElement": "cveY8tQlzJ3",
+        "comboOption": "rfU1wksAsMD"
+    },
+    {
+        "indicator": "MCHFInd01",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "cav95q9dEQg"
+    },
+
+    {
+        "indicator": "MCHFInd03",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "nYj1bgdRtBa"
+    },
+    {
+ 
+        "indicator": "MCHFInd04",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "qiVWO4ncqFG"
+    },
+ 
+    {
+        "indicator": "MCHFInd05",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "BeesIR2Wh0t"
+    },
+
+ 
+    {
+        "indicator": "MCHFInd06",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "VMrAl00orWk"
+        
+    },
+ 
+    {
+       "indicator": "MCHFInd07",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "rfU1wksAsMD"
+    }
+]
+ 
+}
