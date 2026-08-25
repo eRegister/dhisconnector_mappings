@@ -1,1 +1,0 @@
-# dhisconnector_mappings
