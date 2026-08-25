@@ -4,6 +4,758 @@
   "created": 1787576405954,
   "dataSetUID": "ds4TGKprxHe",
   "attributeOptionCombo": "WgInIEftt5v",
-  "periodIndicatorReportGUID": "7ad4bf5f-bc49-4756-9b14-b6a2a510b618"
+  "periodIndicatorReportGUID": "7ad4bf5f-bc49-4756-9b14-b6a2a510b618",
+  "elements": [
+       {
+            "indicator": "NPVM<01M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "wfN342A59i8"
+        },
+        {
+            "indicator": "NNVM<01M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "iHRc1W4y1Mi"
+        },
+        {
+            "indicator": "RPVM<01M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "wfN342A59i8"
+        },
+        {
+            "indicator": "RNVM<01M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "iHRc1W4y1Mi"
+        },
+        {
+            "indicator": "TRVM<01M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "QDCCzjOHFhT"
+        },
+        {
+            "indicator": "NPVM<01F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "IrDH0C9rXye"
+        },
+        {
+            "indicator": "NNVM<01F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "xJOD5ASoNRS"
+        },
+        {
+            "indicator": "RPVM<01F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "IrDH0C9rXye"
+        },
+        {
+            "indicator": "RNVM<01F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "xJOD5ASoNRS"
+        },
+        {
+            "indicator": "TRVM<01F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "F5kSYNeS6Cr"
+        },
+        {
+            "indicator": "NPVM01-04M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "wHN2SO8sdOr"
+        },
+        {
+            "indicator": "NNVM01-04M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "gYahDBazjBo"
+        },
+        {
+            "indicator": "RPVM01-04M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "wHN2SO8sdOr"
+        },
+        {
+            "indicator": "RNVM01-04M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "gYahDBazjBo"
+        },
+        {
+            "indicator": "TRVM01-04M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "UADsyyLHNu6"
+        },
+        {
+            "indicator": "NPVM01-04F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "FC22wYUMi3V"
+        },
+        {
+            "indicator": "NNVM01-04F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "jxau41PSQii"
+        },
+        {
+            "indicator": "RPVM01-04F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "FC22wYUMi3V"
+        },
+        {
+            "indicator": "RNVM01-04F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "jxau41PSQii"
+        },
+        {
+            "indicator": "TRVM01-04F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "eilExkzu2Di"
+        },
+        {
+            "indicator": "NPVM05-09M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "B9a6EW9bKcy"
+        },
+        {
+            "indicator": "NNVM05-09M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "POoMn5XIAOg"
+        },
+        {
+            "indicator": "RPVM05-09M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "B9a6EW9bKcy"
+        },
+        {
+            "indicator": "RNVM05-09M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "POoMn5XIAOg"
+        },
+        {
+            "indicator": "TRVM05-09M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "Bvjuqg3cOZh"
+        },
+        {
+            "indicator": "NPVM05-09F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "mvRA8o465SF"
+        },
+        {
+            "indicator": "NNVM05-09F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "k1A3QVklbs7"
+        },
+        {
+            "indicator": "RPVM05-09F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "mvRA8o465SF"
+        },
+        {
+            "indicator": "RNVM05-09F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "k1A3QVklbs7"
+        },
+        {
+            "indicator": "TRVM05-09F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "YYYn3MJ8r0b"
+        },
+        {
+            "indicator": "NPVM10-14M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "XOOrC0xIJ3I"
+        },
+        {
+            "indicator": "NNVM10-14M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "wJ7VZOPJiZK"
+        },
+        {
+            "indicator": "RPVM10-14M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "XOOrC0xIJ3I"
+        },
+        {
+            "indicator": "RNVM10-14M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "wJ7VZOPJiZK"
+        },
+        {
+            "indicator": "TRVM10-14M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "ClC1vGrWlsr"
+        },
+        {
+            "indicator": "NPVM10-14F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "nZdePkzqa0e"
+        },
+        {
+            "indicator": "NNVM10-14F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "xw8lPxpFttk"
+        },
+        {
+            "indicator": "RPVM10-14F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "nZdePkzqa0e"
+        },
+        {
+            "indicator": "RNVM10-14F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "xw8lPxpFttk"
+        },
+        {
+            "indicator": "TRVM10-14F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "o9vh4ISu6MX"
+        },
+        {
+            "indicator": "NPVM15-19M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "QZvSCqxDY2d"
+        },
+        {
+            "indicator": "NNVM15-19M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "SdL0tQZHCzA"
+        },
+        {
+            "indicator": "RPVM15-19M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "QZvSCqxDY2d"
+        },
+        {
+            "indicator": "RNVM15-19M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "SdL0tQZHCzA"
+        },
+        {
+            "indicator": "TRVM15-19M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "Z6P573u7RIf"
+        },
+        {
+            "indicator": "NPVM15-19F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "C9MsGa9KcUE"
+        },
+        {
+            "indicator": "NNVM15-19F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "bHatwCNkO57"
+        },
+        {
+            "indicator": "RPVM15-19F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "C9MsGa9KcUE"
+        },
+        {
+            "indicator": "RNVM15-19F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "bHatwCNkO57"
+        },
+        {
+            "indicator": "TRVM15-19F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "RKHzFqOIoa8"
+        },
+        {
+            "indicator": "NPVM20-24M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "b9q3Q7dbnRG"
+        },
+        {
+            "indicator": "NNVM20-24M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "irqeB8KEVAV"
+        },
+        {
+            "indicator": "RPVM20-24M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "b9q3Q7dbnRG"
+        },
+        {
+            "indicator": "RNVM20-24M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "irqeB8KEVAV"
+        },
+        {
+            "indicator": "TRVM20-24M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "RBxFDSclOzv"
+        },
+        {
+            "indicator": "NPVM20-24F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "pw4tvsUWMD5"
+        },
+        {
+            "indicator": "NNVM20-24F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "iUEZ1VDSuwI"
+        },
+        {
+            "indicator": "RPVM20-24F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "pw4tvsUWMD5"
+        },
+        {
+            "indicator": "RNVM20-24F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "iUEZ1VDSuwI"
+        },
+        {
+            "indicator": "TRVM20-24F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "zLXN6XqzVJS"
+        },
+        {
+            "indicator": "NPVM25-29M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "qJ3VOo4uzny"
+        },
+        {
+            "indicator": "NNVM25-29M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "tc0TC4dDyFb"
+        },
+        {
+            "indicator": "RPVM25-29M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "qJ3VOo4uzny"
+        },
+        {
+            "indicator": "RNVM25-29M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "tc0TC4dDyFb"
+        },
+        {
+            "indicator": "TRVM25-29M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "OoVm8XBH2wW"
+        },
+        {
+            "indicator": "NPVM25-29F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "oa7t6iQoN3o"
+        },
+        {
+            "indicator": "NNVM25-29F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "MAq6PmYGzkv"
+        },
+        {
+            "indicator": "RPVM25-29F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "oa7t6iQoN3o"
+        },
+        {
+            "indicator": "RNVM25-29F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "MAq6PmYGzkv"
+        },
+        {
+            "indicator": "TRVM25-29F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "hkeHupJ1YcD"
+        },
+        {
+            "indicator": "NPVM30-34M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "v53ous0bGJ7"
+        },
+        {
+            "indicator": "NNVM30-34M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "KvUdYZCSwNp"
+        },
+        {
+            "indicator": "RPVM30-34M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "v53ous0bGJ7"
+        },
+        {
+            "indicator": "RNVM30-34M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "KvUdYZCSwNp"
+        },
+        {
+            "indicator": "TRVM30-34M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "oO6bW1DWhn2"
+        },
+        {
+            "indicator": "NPVM30-34F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "nU1XKI2SKUk"
+        },
+        {
+            "indicator": "NNVM30-34F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "IIAnqm1S7V7"
+        },
+        {
+            "indicator": "RPVM30-34F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "nU1XKI2SKUk"
+        },
+        {
+            "indicator": "RNVM30-34F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "IIAnqm1S7V7"
+        },
+        {
+            "indicator": "TRVM30-34F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "K2Ljz3Eb2VK"
+        },
+        {
+            "indicator": "NPVM35-39M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "FEGA6GFjslv"
+        },
+        {
+            "indicator": "NNVM35-39M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "LRdyMdmL05x"
+        },
+        {
+            "indicator": "RPVM35-39M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "FEGA6GFjslv"
+        },
+        {
+            "indicator": "RNVM35-39M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "LRdyMdmL05x"
+        },
+        {
+            "indicator": "TRVM35-39M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "Oqhc94YzR8O"
+        },
+        {
+            "indicator": "NPVM35-39F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "N5Ifpnswucj"
+        },
+        {
+            "indicator": "NNVM35-39F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "wiA4oqG64Hu"
+        },
+        {
+            "indicator": "RPVM35-39F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "N5Ifpnswucj"
+        },
+        {
+            "indicator": "RNVM35-39F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "wiA4oqG64Hu"
+        },
+        {
+            "indicator": "TRVM35-39F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "iZI8EikcnOF"
+        },
+        {
+            "indicator": "NPVM40-44M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "sUDlQuAgWMf"
+        },
+        {
+            "indicator": "NNVM40-44M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "ZHUoNv4iOS2"
+        },
+        {
+            "indicator": "RPVM40-44M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "sUDlQuAgWMf"
+        },
+        {
+            "indicator": "RNVM40-44M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "ZHUoNv4iOS2"
+        },
+        {
+            "indicator": "TRVM40-44M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "FevsemSeSOV"
+        },
+        {
+            "indicator": "NPVM40-44F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "LHyC78nt81B"
+        },
+        {
+            "indicator": "NNVM40-44F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "zcwx9nVX9rp"
+        },
+        {
+            "indicator": "RPVM40-44F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "LHyC78nt81B"
+        },
+        {
+            "indicator": "RNVM40-44F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "zcwx9nVX9rp"
+        },
+        {
+            "indicator": "TRVM40-44F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "qEb07avLVE9"
+        },
+        {
+            "indicator": "NPVM45-49M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "NgyjzI2GV0N"
+        },
+        {
+            "indicator": "NNVM45-49M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "VZ4XlVr1wZW"
+        },
+        {
+            "indicator": "RPVM45-49M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "NgyjzI2GV0N"
+        },
+        {
+            "indicator": "RNVM45-49M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "VZ4XlVr1wZW"
+        },
+        {
+            "indicator": "TRVM45-49M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "SlHHW6Bf9FY"
+        },
+        {
+            "indicator": "NPVM45-49F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "vdKqn91vmPV"
+        },
+        {
+            "indicator": "NNVM45-49F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "OBHZzrw1URL"
+        },
+        {
+            "indicator": "RPVM45-49F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "vdKqn91vmPV"
+        },
+        {
+            "indicator": "RNVM45-49F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "OBHZzrw1URL"
+        },
+        {
+            "indicator": "TRVM45-49F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "FAkeRwt3613"
+        },
+        {
+            "indicator": "NPVM50-54M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "qzBsLtaPqCR"
+        },
+        {
+            "indicator": "NNVM50-54M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "u3KodYN5QWS"
+        },
+        {
+            "indicator": "RPVM50-54M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "qzBsLtaPqCR"
+        },
+        {
+            "indicator": "RNVM50-54M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "u3KodYN5QWS"
+        },
+        {
+            "indicator": "TRVM50-54M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "oyIm7GMTZbV"
+        },
+        {
+            "indicator": "NPVM50-54F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "ysn9h3vflJr"
+        },
+        {
+            "indicator": "NNVM50-54F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "xQY8rxrhDjI"
+        },
+        {
+            "indicator": "RPVM50-54F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "ysn9h3vflJr"
+        },
+        {
+            "indicator": "RNVM50-54F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "xQY8rxrhDjI"
+        },
+        {
+            "indicator": "TRVM50-54F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "tBmpBDUT4VE"
+        },
+        { 
+            "indicator": "NPVM55-59M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "pCUPDQEFvAe"
+        },
+        {
+            "indicator": "NNVM55-59M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "GFuLkZvrz3J"
+        },
+        {
+            "indicator": "RPVM55-59M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "pCUPDQEFvAe"
+        },
+        {
+            "indicator": "RNVM55-59M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "GFuLkZvrz3J"
+        },
+        {
+            "indicator": "TRVM55-59M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "wOHPpuBb3As"
+        },
+        {
+            "indicator": "NPVM55-59F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "fS4J5PAO3Iw"
+        },
+        {
+            "indicator": "NNVM55-59F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "B51QYl34XDy"
+        },
+        {
+            "indicator": "RPVM55-59F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "fS4J5PAO3Iw"
+        },
+        {
+            "indicator": "RNVM55-59F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "B51QYl34XDy"
+        },
+        {
+            "indicator": "TRVM55-59F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "ij80JGpVQxQ"
+        },
+        {
+            "indicator": "NPVM60-64M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "i8OfjxJcOdV"   
+        },
+        {
+            "indicator": "NNVM60-64M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "VKBnZnBNoYu"
+        },
+        {
+            "indicator": "RPVM60-64M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "i8OfjxJcOdV"
+        },
+        {
+            "indicator": "RNVM60-64M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "VKBnZnBNoYu"
+        },
+        {
+            "indicator": "TRVM60-64M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "v5dKXPVhWdX"
+        },
+        {
+            "indicator": "NPVM60-64F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "jaQLqW7MyqI"
+        },
+        {
+            "indicator": "NNVM60-64F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "ucYtvtHQDsN"
+        },
+        {
+            "indicator": "RPVM60-64F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "jaQLqW7MyqI"
+        },
+        {
+            "indicator": "RNVM60-64F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "ucYtvtHQDsN"
+        },
+        {
+            "indicator": "TRVM60-64F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "N1hu2yCyLJD"
+        },
+        {
+            "indicator": "NPVM65+M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "x8r6eNJrgvv"
+        },
+        {
+            "indicator": "NNVM65+M",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "n4JXiue4OI4"
+        },
+        {
+            "indicator": "RPVM65+M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "x8r6eNJrgvv"
+        },
+        {
+            "indicator": "RNVM65+M",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "n4JXiue4OI4"
+        },
+        {
+            "indicator": "TRVM65+M",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "haq0oUlleXW"
+        },
+        {
+            "indicator": "NPVM65+F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "rYQLpPOpQAa"
+        },
+        {
+            "indicator": "NNVM65+F",
+            "dataElement": "MJwKc9ttmbI",
+            "comboOption": "f9Zuw4fQaMk"
+        },
+        {
+            "indicator": "RPVM65+F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "rYQLpPOpQAa"
+        },
+        {
+            "indicator": "RNVM65+F",
+            "dataElement": "pKnFYNjqsb0",
+            "comboOption": "f9Zuw4fQaMk"
+        },
+        {
+            "indicator": "TRVM65+F",
+            "dataElement": "TGSC4rThAFj",
+            "comboOption": "KRI0GtpQBEu"   
+        }
+    ]
 
 }
