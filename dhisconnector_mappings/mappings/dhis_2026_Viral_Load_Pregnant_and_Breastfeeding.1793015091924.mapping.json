@@ -1,0 +1,411 @@
+{
+  "name": "dhis_2026_Viral_Load_Pregnant_and_Breastfeeding",
+  "periodType": "Monthly",
+  "created": 1793015091924,
+  "dataSetUID": "jhiRDT5jYti",
+  "periodIndicatorReportGUID": "7b0e0a97-0012-43e7-8a1b-79d4812c2562",
+
+  "elements": [
+        {
+            "indicator": "Under15_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HCgicxjIuLk"
+        },
+        {
+            "indicator": "15-19y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HT8OJvWWAh6"
+        },
+        {
+            "indicator": "20-24y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HzSZkaPOJGh"
+        },
+        {
+            "indicator": "25-29y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HIzVAXc3Aiq"
+        },
+        {
+            "indicator": "30-34y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HyXTQsApC5w"
+        },
+        {
+            "indicator": "35-39y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "Hq7C4RvYQL6"
+        },
+        {
+            "indicator": "40-44y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HNkJbaeM4P1"
+        },
+        {
+            "indicator": "45-49y_ps",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HoNXebd2w3x"
+        },
+        {
+            "indicator": "Under15_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HswsCLUCxhq"
+        },
+        {
+            "indicator": "15-19y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "H764La64HRN"
+        },
+        {
+            "indicator": "20-24y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HUFFEYzMpr0"
+        },
+        {
+            "indicator": "25-29y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "Hnn9tHu5ok3"
+        },
+        {
+            "indicator": "30-34y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HYw5azGLcC5"
+        },
+        {
+            "indicator": "35-39y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HbAgW6lcEKi"
+        },
+        {
+            "indicator": "40-44y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HTC3htTzbY4"
+        },
+        {
+            "indicator": "45-49y_bs",
+            "dataElement": "HoNfzkT4BUx",
+            "comboOption": "HGmJF12XiZA"
+        },
+        {
+            "indicator": "Under15_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HCgicxjIuLk"
+        },
+        {
+            "indicator": "15-19y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HT8OJvWWAh6"
+        },
+        {
+            "indicator": "20-24y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HzSZkaPOJGh"
+        },
+        {
+            "indicator": "25-29y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HIzVAXc3Aiq"
+        },
+        {
+            "indicator": "30-34y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HyXTQsApC5w"
+        },
+        {
+            "indicator": "35-39y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "Hq7C4RvYQL6"
+        },
+        {
+            "indicator": "40-44y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HNkJbaeM4P1"
+        },
+        {
+            "indicator": "45-49y_pd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HoNXebd2w3x"
+        },
+        {
+            "indicator": "Under15_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HswsCLUCxhq"
+        },
+        {
+            "indicator": "15-19y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "H764La64HRN"
+        },
+        {
+            "indicator": "20-24y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HUFFEYzMpr0"
+        },
+        {
+            "indicator": "25-29y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "Hnn9tHu5ok3"
+        },
+        {
+            "indicator": "30-34y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HYw5azGLcC5"
+        },
+        {
+            "indicator": "35-39y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HbAgW6lcEKi"
+        },
+        {
+            "indicator": "40-44y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HTC3htTzbY4"
+        },
+        {
+            "indicator": "45-49y_bd",
+            "dataElement": "HOyad2tTJVN",
+            "comboOption": "HGmJF12XiZA"
+        },
+        {
+            "indicator": "Under15_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HCyKNRGRcNp"
+        },
+        {
+            "indicator": "15-19y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HHx01nQoWx2"
+        },
+        {
+            "indicator": "20-24y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HZH0J5pFQdz"
+        },
+        {
+            "indicator": "25-29y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Hjp7tXUyuPe"
+        },
+        {
+            "indicator": "30-34y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Hff7ajBrEtv"
+        },
+        {
+            "indicator": "35-39y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "H4WR3e6zSox"
+        },
+        {
+            "indicator": "40-44y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HLcEIP2bETJ"
+        },
+        {
+            "indicator": "45-49y_pr",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HXxE7ChtDq7"
+        },
+        {
+            "indicator": "Under15_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HXVycPmL4AT"
+        },
+        {
+            "indicator": "15-19y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "H0e4XQj5kTm"
+        },
+        {
+            "indicator": "20-24y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HFt6LHV66wB"
+        },
+        {
+            "indicator": "25-29y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HU121DBELmY"
+        },
+        {
+            "indicator": "30-34y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HCEniAByPk3"
+        },
+        {
+            "indicator": "35-39y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HjBFwHMfKlP"
+        },
+        {
+            "indicator": "40-44y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HBuoBzIgpl2"
+        },
+        {
+            "indicator": "45-49y_br",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HEDc2jLaFnK"
+        },
+        {
+            "indicator": "Under15_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HQYy7GRrrUs"
+        },
+        {
+            "indicator": "15-19y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HlGdagDwPBv"
+        },
+        {
+            "indicator": "20-24y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HzUAsxqL0SI"
+        },
+        {
+            "indicator": "25-29y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Hp1xWVma6zS"
+        },
+        {
+            "indicator": "30-34y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HUmZaw0PaeS"
+        },
+        {
+            "indicator": "35-39y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "H5FckCgE0LL"
+        },
+        {
+            "indicator": "40-44y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HfTfD0KdGtI"
+        },
+        {
+            "indicator": "45-49y_pt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HaZcmCLlUmU"
+        },
+        {
+            "indicator": "Under15_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "H0BXMS12ceo"
+        },
+        {
+            "indicator": "15-19y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Hpu3VEsfUbc"
+        },
+        {
+            "indicator": "20-24y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HnIXrGZ3pDR"
+        },
+        {
+            "indicator": "25-29y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HJ3bWNBKsqL"
+        },
+        {
+            "indicator": "30-34y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Huw2wrBYusM"
+        },
+        {
+            "indicator": "35-39y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "Hr30afOCiW2"
+        },
+        {
+            "indicator": "40-44y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "HQLd3olZM7T"
+        },
+        {
+            "indicator": "45-49y_bt",
+            "dataElement": "HRkuzHXWxeC",
+            "comboOption": "H7o3ezb0a7F"
+        },
+        {
+            "indicator": "Under15_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HCgicxjIuLk"
+        },
+        {
+            "indicator": "15-19y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HT8OJvWWAh6"
+        },
+        {
+            "indicator": "20-24y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HzSZkaPOJGh"
+        },
+        {
+            "indicator": "25-29y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HIzVAXc3Aiq"
+        },
+        {
+            "indicator": "30-34y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HyXTQsApC5w"
+        },
+        {
+            "indicator": "35-39y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "Hq7C4RvYQL6"
+        },
+        {
+            "indicator": "40-44y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HNkJbaeM4P1"
+        },
+        {
+            "indicator": "45-49y_pv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HoNXebd2w3x"
+        },
+        {
+            "indicator": "Under15_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HswsCLUCxhq"
+        },
+        {
+            "indicator": "15-19y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "H764La64HRN"
+        },
+        {
+            "indicator": "20-24y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HUFFEYzMpr0"
+        },
+        {
+            "indicator": "25-29y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "Hnn9tHu5ok3"
+        },
+        {
+            "indicator": "30-34y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HYw5azGLcC5"
+        },
+        {
+            "indicator": "35-39y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HbAgW6lcEKi"
+        },
+        {
+            "indicator": "40-44y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HTC3htTzbY4"
+        },
+        {
+            "indicator": "45-49y_bv",
+            "dataElement": "HWWfqLJntwj",
+            "comboOption": "HGmJF12XiZA"
+        }
+    ]
+    
+}

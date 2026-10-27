@@ -3,9 +3,8 @@
   "periodType": "Monthly",
   "created": 1787244923839,
   "dataSetUID": "ds4TGKprxHe",
-  "attributeOptionComboIndxMPos01": "UiRmRhAmkyO",
+  "attributeOptionCombo": "UiRmRhAmkyO",
   "periodIndicatorReportGUID": "fb74d1ab-c4e9-4918-9bf1-3c44288f2efb",
- 
   "elements": [
     {
         "indicator": "IndxMPos01",

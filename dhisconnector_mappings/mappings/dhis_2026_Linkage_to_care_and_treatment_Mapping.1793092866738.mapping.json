@@ -1,0 +1,14 @@
+{
+  "name": "dhis_2026_Linkage_to_care_and_treatment_Mapping",
+  "periodType": "Monthly",
+  "created": 1793092866738,
+  "dataSetUID": "lIrRoBVgmAA",
+  "periodIndicatorReportGUID": "a28aad5d-1024-42a2-9213-7ed3a4ea1823",
+  "elements": [
+    {
+      "indicator": "Link2WkAdF",
+      "dataElement": "FFFIDfSdPWH",
+      "comboOption": "ah3AxGIPZHw"
+    }
+  ]
+}
