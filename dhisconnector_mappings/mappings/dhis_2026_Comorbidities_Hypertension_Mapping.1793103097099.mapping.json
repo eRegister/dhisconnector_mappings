@@ -1,1 +1,89 @@
-{"name":"dhis_2026_Comorbidities_Hypertension_Mapping","periodType":"Monthly","created":1793103097099,"dataSetUID":"lIrRoBVgmAA","periodIndicatorReportGUID":"bb5568cb-cb6f-44b9-adde-d9cc54626858","elements":[{"indicator":"DiagFHTNad","dataElement":"Nwk2rd21yop","comboOption":"SnHLs9gyEd2"}]}
+{
+    "name": "dhis_2026_Comorbidities_Hypertension_Mapping",
+    "periodType": "Monthly",
+    "created": 1793103097099,
+    "dataSetUID": "lIrRoBVgmAA",
+    "periodIndicatorReportGUID": "bb5568cb-cb6f-44b9-adde-d9cc54626858",
+    "elements": [
+        {
+            "indicator": "ScrnMHTNch",
+            "dataElement": "Bw6l1wSAQac",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "ScrnFHTNch",
+            "dataElement": "Bw6l1wSAQac",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "ScrnMHTNad",
+            "dataElement": "Bw6l1wSAQac",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "ScrnFHTNad",
+            "dataElement": "Bw6l1wSAQac",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiagMHTNch",
+            "dataElement": "cGA1VARmpYp",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiagFHTNch",
+            "dataElement": "cGA1VARmpYp",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiagMHTNad",
+            "dataElement": "cGA1VARmpYp",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiagFHTNad",
+            "dataElement": "cGA1VARmpYp",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiagTxMCh",
+            "dataElement": "gkR9Gex2VPu",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiagTxFCh",
+            "dataElement": "gkR9Gex2VPu",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiagTxMAd",
+            "dataElement": "gkR9Gex2VPu",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiagTxFAd",
+            "dataElement": "gkR9Gex2VPu",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "HTNMch",
+            "dataElement": "m4y9KuDaYAF",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "HTNFch",
+            "dataElement": "m4y9KuDaYAF",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "HTNMAd",
+            "dataElement": "m4y9KuDaYAF",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "HTNFAd",
+            "dataElement": "m4y9KuDaYAF",
+            "comboOption": "AzfgnzJeoRb"
+        }
+    ]
+}
