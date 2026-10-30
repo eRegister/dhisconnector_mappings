@@ -1,0 +1,206 @@
+{
+  "name": "dhis_2026_ART_CARE_DSD_MODELS_POP_GROUPS",
+  "periodType": "Monthly",
+  "created": 1793355336909,
+  "dataSetUID": "lIrRoBVgmAA",
+  "periodIndicatorReportGUID": "dab46cf2-b81e-4062-a1ed-6b5e9f5969dd",
+ "elements": [
+    {
+      "indicator": "MSM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "GenPopM",
+      "dataElement": "uAUJTTLZwpu",
+      "comboOption": "w0UgafMFtCy"
+    },
+    {
+      "indicator": "GenPopF",
+      "dataElement": "uAUJTTLZwpu",
+      "comboOption": "VXCy0UXD9PL"
+    },
+    {
+      "indicator": "BFWomen",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "PregWomen",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "PWIDM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "PWIDF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "InmatesM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "InmatesF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "SexWorkerM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "SexWorkerF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "TransM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "TransF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "dsdCAGSM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "dsdCAGSF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "dsdCADM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "dsdCADF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "bonoloM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "bonoloF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "TeenClubsM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "TeenClubsF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "MotBaby",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "MensClinic",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "transInM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "transInF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "transOutM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "transOutF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "restartM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "restartF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "deathsM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "deathsF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "IniDiedM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "IniDiedF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "IniTOM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "IniTOF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "stoppedM",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "stoppedF",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "lost>28M",
+      "dataElement": "",
+      "comboOption": ""
+    },
+    {
+      "indicator": "lost>28F",
+      "dataElement": "",
+      "comboOption": ""
+    }
+  ]
+}
+
+
