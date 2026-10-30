@@ -1,1 +1,89 @@
-{"name":"dhis_2026_Comorbidities_Diabetes_Mapping","periodType":"Monthly","created":1793103243668,"dataSetUID":"lIrRoBVgmAA","periodIndicatorReportGUID":"06aa03e6-e844-4198-bcdb-a0910fd7eb93","elements":[{"indicator":"DMFAd","dataElement":"kIeg1DOz9AQ","comboOption":"VBlI4cQ37L6"}]}
+{
+    "name": "dhis_2026_Comorbidities_Diabetes_Mapping",
+    "periodType": "Monthly",
+    "created": 1793103243668,
+    "dataSetUID": "lIrRoBVgmAA",
+    "periodIndicatorReportGUID": "06aa03e6-e844-4198-bcdb-a0910fd7eb93",
+    "elements": [
+        {
+            "indicator": "ScrnMDMch",
+            "dataElement": "MNkF7JuJWZH",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "ScrnFDMch",
+            "dataElement": "MNkF7JuJWZH",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "ScrnMDMad",
+            "dataElement": "MNkF7JuJWZH",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "ScrnFDMad",
+            "dataElement": "MNkF7JuJWZH",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiagMDMch",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiagFDMch",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiagMDMad",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiagFDMad",
+            "dataElement": "yEwY3S1qe6a",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DiaTxMDMCh",
+            "dataElement": "cujNMhG0oFr",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DiaTxFDMCh",
+            "dataElement": "cujNMhG0oFr",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DiaTxMDMAd",
+            "dataElement": "cujNMhG0oFr",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DiaTxFDMAd",
+            "dataElement": "cujNMhG0oFr",
+            "comboOption": "AzfgnzJeoRb"
+        },
+        {
+            "indicator": "DMMch",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "SnHLs9gyEd2"
+        },
+        {
+            "indicator": "DMFch",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "yX1jtB3P1Dw"
+        },
+        {
+            "indicator": "DMMAd",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "N7ZhrDhrGyQ"
+        },
+        {
+            "indicator": "DMFAd",
+            "dataElement": "T7qbE2z8GUG",
+            "comboOption": "AzfgnzJeoRb"
+        }
+    ]
+}
