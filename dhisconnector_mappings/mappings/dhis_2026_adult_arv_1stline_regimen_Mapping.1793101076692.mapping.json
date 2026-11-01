@@ -1,1 +1,139 @@
-{"name":"dhis_2026_adult_arv_1stline_regimen_Mapping","periodType":"Monthly","created":1793101076692,"dataSetUID":"lIrRoBVgmAA","periodIndicatorReportGUID":"0a4942a5-df03-4d3f-a490-bdef043c62fc","elements":[{"indicator":"1c_females","dataElement":"H6cT4nR9vQy","comboOption":"YdPiAhXkIC0"}]}
+{
+    "name": "dhis_2026_adult_arv_1stline_regimen_Mapping",
+    "periodType": "Monthly",
+    "created": 1793101076692,
+    "dataSetUID": "lIrRoBVgmAA",
+    "periodIndicatorReportGUID": "0a4942a5-df03-4d3f-a490-bdef043c62fc",
+    "elements": [
+        {
+            "indicator": "1f_females",
+            "dataElement": "J1fP5rS8wXa",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1f_males",
+            "dataElement": "J1fP5rS8wXa",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1k_females",
+            "dataElement": "aXye773KQ85",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1k_males",
+            "dataElement": "aXye773KQ85",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1p_females",
+            "dataElement": "CfPa2VciKbV",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1p_males",
+            "dataElement": "CfPa2VciKbV",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1q_females",
+            "dataElement": "kIeg1DOz9AQ",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1q_males",
+            "dataElement": "kIeg1DOz9AQ",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1c_females",
+            "dataElement": "weFGsSSmqfr",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1c_males",
+            "dataElement": "weFGsSSmqfr",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1d_females",
+            "dataElement": "Y8YL6CDHloW",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1d_males",
+            "dataElement": "Y8YL6CDHloW",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1e_females",
+            "dataElement": "CGKSBLjYdWF",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1e_males",
+            "dataElement": "CGKSBLjYdWF",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1g_females",
+            "dataElement": "sfI3Zfdz0Wx",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1g_males",
+            "dataElement": "sfI3Zfdz0Wx",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1h_females",
+            "dataElement": "Kc2KAPZa7R6",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1h_males",
+            "dataElement": "Kc2KAPZa7R6",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1j_females",
+            "dataElement": "oXPvNhNjc23",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1j_males",
+            "dataElement": "oXPvNhNjc23",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1k_females",
+            "dataElement": "aXye773KQ85",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1k_males",
+            "dataElement": "aXye773KQ85",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1m_females",
+            "dataElement": "L1mR7tU2yZc",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1m_males",
+            "dataElement": "L1mR7tU2yZc",
+            "comboOption": "VBlI4cQ37L6"
+        },
+        {
+            "indicator": "1n_females",
+            "dataElement": "hNIXEDDj37N",
+            "comboOption": "odJtXEEewi2"
+        },
+        {
+            "indicator": "1n_males",
+            "dataElement": "hNIXEDDj37N",
+            "comboOption": "VBlI4cQ37L6"
+        }
+    ]
+}

@@ -6,9 +6,64 @@
   "periodIndicatorReportGUID": "a28aad5d-1024-42a2-9213-7ed3a4ea1823",
   "elements": [
     {
+      "indicator": "LinkSamAdF",
+      "dataElement": "CMgWvz6jTuS",
+      "comboOption": "AzfgnzJeoRb"
+    },
+    {
+      "indicator": "LinkSamAdM",
+      "dataElement": "CMgWvz6jTuS",
+      "comboOption": "N7ZhrDhrGyQ"
+    },
+    {
+      "indicator": "LinkSamChF",
+      "dataElement": "CMgWvz6jTuS",
+      "comboOption": "yX1jtB3P1Dw"
+    },
+    {
+      "indicator": "LinkSamChM",
+      "dataElement": "CMgWvz6jTuS",
+      "comboOption": "SnHLs9gyEd2"
+    },
+    {
       "indicator": "Link2WkAdF",
-      "dataElement": "FFFIDfSdPWH",
-      "comboOption": "ah3AxGIPZHw"
+      "dataElement": "nCsMJBR4cHI",
+      "comboOption": "AzfgnzJeoRb"
+    },
+    {
+      "indicator": "Link2WkAdM",
+      "dataElement": "nCsMJBR4cHI",
+      "comboOption": "N7ZhrDhrGyQ"
+    },
+    {
+      "indicator": "Link2WkChF",
+      "dataElement": "nCsMJBR4cHI",
+      "comboOption": "yX1jtB3P1Dw"
+    },
+    {
+      "indicator": "Link2WkChM",
+      "dataElement": "nCsMJBR4cHI",
+      "comboOption": "SnHLs9gyEd2"
+    },
+    {
+      "indicator": "LinkPMAdF",
+      "dataElement": "MW5RlNJIvFz",
+      "comboOption": "AzfgnzJeoRb"
+    },
+    {
+      "indicator": "LinkPMAdM",
+      "dataElement": "MW5RlNJIvFz",
+      "comboOption": "N7ZhrDhrGyQ"
+    },
+    {
+      "indicator": "LinkPMChF",
+      "dataElement": "MW5RlNJIvFz",
+      "comboOption": "yX1jtB3P1Dw"
+    },
+    {
+      "indicator": "LinkPMChM",
+      "dataElement": "MW5RlNJIvFz",
+      "comboOption": "SnHLs9gyEd2"
     }
   ]
 }
