@@ -1,1 +1,79 @@
-{"name":"dhis_2026_Comorbidities_FP_Mapping","periodType":"Monthly","created":1793103507287,"dataSetUID":"lIrRoBVgmAA","periodIndicatorReportGUID":"a51f0de6-fa04-4b16-aa3b-24f4a74c1cea","elements":[{"indicator":"FcondomNew","dataElement":"ThYmfBT6nSb","comboOption":"SnHLs9gyEd2"}]}
+{
+    "name": "dhis_2026_Comorbidities_FP_Mapping",
+    "periodType": "Monthly",
+    "created": 1793103507287,
+    "dataSetUID": "lIrRoBVgmAA",
+    "periodIndicatorReportGUID": "a51f0de6-fa04-4b16-aa3b-24f4a74c1cea",
+    "elements": [
+        {
+            "indicator": "InjecNew",
+            "dataElement": "HiO9P0jQchz",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "InjecRev",
+            "dataElement": "HiO9P0jQchz",
+            "comboOption": "Rntw6a3ypmk"
+        },
+        {
+            "indicator": "condomsNew",
+            "dataElement": "INquc7WqhtY",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "condomsRev",
+            "dataElement": "INquc7WqhtY",
+            "comboOption": "Rntw6a3ypmk"
+        },
+        {
+            "indicator": "implantNew",
+            "dataElement": "HiO9P0jQchz",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "implantRev",
+            "dataElement": "HiO9P0jQchz",
+            "comboOption": "Rntw6a3ypmk"
+        },
+        {
+            "indicator": "iucdNew",
+            "dataElement": "OPGMz2ubP6i",
+            "comboOption": "BtW22GNHq2U"
+        },
+        {
+            "indicator": "iucdRev",
+            "dataElement": "OPGMz2ubP6i",
+            "comboOption": "eat5fsChSzM"
+        },
+        {
+            "indicator": "otherFPNew",
+            "dataElement": "jwV1MfKR8cT",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "otherFPRev",
+            "dataElement": "jwV1MfKR8cT",
+            "comboOption": "Rntw6a3ypmk"
+        },
+        {
+            "indicator": "pillsNew",
+            "dataElement": "O3doysIAL9p",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "pillsRev",
+            "dataElement": "O3doysIAL9p",
+            "comboOption": "Rntw6a3ypmk"
+        },
+        {
+            "indicator": "FcondomNew",
+            "dataElement": "vNpIH0zWFOL",
+            "comboOption": "nbzjuzpC711"
+        },
+        {
+            "indicator": "FcondomRev",
+            "dataElement": "vNpIH0zWFOL",
+            "comboOption": "Rntw6a3ypmk"
+        }
+    ]
+}
