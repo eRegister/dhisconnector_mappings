@@ -7,8 +7,8 @@
  "elements": [
     {
       "indicator": "MSM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "AtgYZmhR0H8",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "GenPopM",
@@ -22,183 +22,189 @@
     },
     {
       "indicator": "BFWomen",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "FbxcKoGiVh0",
+      "comboOption": "HllvX50cXC0"
     },
     {
       "indicator": "PregWomen",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "pLOFqbBqatC",
+      "comboOption": "HllvX50cXC0"
     },
     {
       "indicator": "PWIDM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "DHzS5e6Om5F",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "PWIDF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "DHzS5e6Om5F",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "InmatesM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "VUokXGYZNU3",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "InmatesF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "VUokXGYZNU3",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "SexWorkerM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "FHcnd8uPuhX",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "SexWorkerF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "FHcnd8uPuhX",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "TransM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "vYBAWlaOvZx",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "TransF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "vYBAWlaOvZx",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "dsdCAGSM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "xzHNhgUJJW6",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "dsdCAGSF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "xzHNhgUJJW6",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "dsdCADM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "eupOxRMGsse",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "dsdCADF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "eupOxRMGsse",
+      "comboOption": "VXCy0UXD9PL"
+      
     },
     {
       "indicator": "bonoloM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "cTSy40TblNg",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "bonoloF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "cTSy40TblNg",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "TeenClubsM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "gmoRHkNGsRh",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "TeenClubsF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "gmoRHkNGsRh",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "MotBaby",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "B5NF8eHEFxb",
+      "comboOption": "HllvX50cXC0"
     },
     {
       "indicator": "MensClinic",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "yJhRv34UozO",
+      "comboOption": "HllvX50cXC0"
     },
     {
       "indicator": "transInM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "mH4AwrkQlZ7",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "transInF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "mH4AwrkQlZ7",
+      "comboOption": "VXCy0UXD9PL"
+      
     },
     {
       "indicator": "transOutM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "f1VJ6bAaWQa",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "transOutF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "f1VJ6bAaWQa",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "restartM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "h285DjND0ps",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "restartF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "h285DjND0ps",
+      "comboOption": "VXCy0UXD9PL"
+      
     },
     {
       "indicator": "deathsM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "BwqwC38L9oI",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "deathsF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "BwqwC38L9oI",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "IniDiedM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "F3hogTPEXYB",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "IniDiedF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "F3hogTPEXYB",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "IniTOM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "h285DjND0ps",
+      "comboOption": "w0UgafMFtCy"
+      
     },
     {
       "indicator": "IniTOF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "h285DjND0ps",
+      "comboOption": "VXCy0UXD9PL"
+
     },
     {
       "indicator": "stoppedM",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "r7zAyuopnEG",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "stoppedF",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "r7zAyuopnEG",
+      "comboOption": "VXCy0UXD9PL"
     },
     {
       "indicator": "lost>28M",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "k5VqEQxhU0P",
+      "comboOption": "w0UgafMFtCy"
     },
     {
       "indicator": "lost>28F",
-      "dataElement": "",
-      "comboOption": ""
+      "dataElement": "k5VqEQxhU0P",
+      "comboOption": "VXCy0UXD9PL"
+    
     }
   ]
 }
