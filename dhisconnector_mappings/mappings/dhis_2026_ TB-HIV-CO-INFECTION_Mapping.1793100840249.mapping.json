@@ -5,11 +5,7 @@
     "dataSetUID": "lIrRoBVgmAA",
     "periodIndicatorReportGUID": "5f5679ca-795d-434b-a3e0-354fec02f6e8",
     "elements": [
-        {
-            "indicator": "TBCaseAdF",
-            "dataElement": "CQ6L84MuLmN",
-            "comboOption": "HrZsQHGbQOg"
-        },
+        
         {
             "indicator": "TBCaseAdF",
             "dataElement": "kctK8amBwfZ",

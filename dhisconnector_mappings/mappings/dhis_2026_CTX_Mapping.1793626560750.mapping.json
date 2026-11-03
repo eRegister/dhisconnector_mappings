@@ -4,50 +4,49 @@
   "created": 1793626560750,
   "dataSetUID": "lIrRoBVgmAA",
   "periodIndicatorReportGUID": "8dc80efd-3c35-4d1a-ad4e-5f9f26caeaf5",
-
-  "elements": [
-    {
-        "indicator": "screenAdF",
-        "dataElement": "vNnZilZOUQW",
-        "comboOption": "hJpoMLOMhYA"
-    },
-    {
-        "indicator": "screenChF",
-        "dataElement": "vNnZilZOUQW",
-        "comboOption": "k1FZjYOQOd5"
-    },
-    {
-        "indicator": "diagAdF",
-        "dataElement": "jXDsWE5xmNi",
-        "comboOption": "hJpoMLOMhYA"
-    },
-    {
-        "indicator": "diagChF",
-        "dataElement": "jXDsWE5xmNi",
-        "comboOption": "k1FZjYOQOd5"
-    },
-    {
-        "indicator": "startedAdF",
-        "dataElement": "kbkywWHrQx2",
-        "comboOption": "hJpoMLOMhYA"
-    },
-    {
-        "indicator": "startedChF",
-        "dataElement": "kbkywWHrQx2",
-        "comboOption": "k1FZjYOQOd5"
-    },
-    {
-        "indicator": "withAdF",
-        "dataElement": "k3qjmPORaVd",
-        "comboOption": "hJpoMLOMhYA"
-    },
-    {
-        "indicator": "withChF",
-        "dataElement": "k3qjmPORaVd",
-        "comboOption": "k1FZjYOQOd5"
-    
-    }
-   
-  ]
+   "elements": [
+      {
+        "indicator": "CTX_F1-4",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "DABVrkZwq4Z"
+      },
+      {
+        "indicator": "CTX_F5-14",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "e48IchcHFWQ"
+      },
+      {
+        "indicator": "CTX_F<1",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "CpKMNHLlBhC"
+      },
+      {
+        "indicator": "CTX_FAdult",
+        "dataElement": "jxedin0Vj13",
+        "comboOption": "AzfgnzJeoRb"
+      },
+      {
+        "indicator": "CTX_M1-4",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "x8ld4I9ifnH"
+      },
+      {
+        "indicator": "CTX_M5-14",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "WRQhp9gluoB"
+      },
+      {
+        "indicator": "CTX_M<1",
+        "dataElement": "PiRxpJF5AqZ",
+        "comboOption": "HP3RQ2AT3He"
+      },
+      {
+        "indicator": "CTX_MAdult",
+        "dataElement": "jxedin0Vj13",
+        "comboOption": "N7ZhrDhrGyQ"
+      }
+    ]
 }
+  
+
 
