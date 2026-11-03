@@ -1,1 +1,52 @@
-{"name":"dhis_2026_Cormobidities_CaCx_Mapping","periodType":"Monthly","created":1793355701673,"dataSetUID":"lIrRoBVgmAA","periodIndicatorReportGUID":"cc6c5dd0-89dc-494a-9d03-760b835e1d86","elements":[{"indicator":"diagAdF","dataElement":"m4y9KuDaYAF"}]}
+{
+  "name": "dhis_2026_Cormobidities_CaCx_Mapping",
+  "periodType": "Monthly",
+  "created": 1793355701673,
+  "dataSetUID": "lIrRoBVgmAA",
+  "periodIndicatorReportGUID": "cc6c5dd0-89dc-494a-9d03-760b835e1d86",
+
+  "elements": [
+    {
+        "indicator": "screenAdF",
+        "dataElement": "vNnZilZOUQW",
+        "comboOption": "hJpoMLOMhYA"
+    },
+    {
+        "indicator": "screenChF",
+        "dataElement": "vNnZilZOUQW",
+        "comboOption": "k1FZjYOQOd5"
+    },
+    {
+        "indicator": "diagAdF",
+        "dataElement": "jXDsWE5xmNi",
+        "comboOption": "hJpoMLOMhYA"
+    },
+    {
+        "indicator": "diagChF",
+        "dataElement": "jXDsWE5xmNi",
+        "comboOption": "k1FZjYOQOd5"
+    },
+    {
+        "indicator": "startedAdF",
+        "dataElement": "kbkywWHrQx2",
+        "comboOption": "hJpoMLOMhYA"
+    },
+    {
+        "indicator": "startedChF",
+        "dataElement": "kbkywWHrQx2",
+        "comboOption": "k1FZjYOQOd5"
+    },
+    {
+        "indicator": "withAdF",
+        "dataElement": "k3qjmPORaVd",
+        "comboOption": "hJpoMLOMhYA"
+    },
+    {
+        "indicator": "withChF",
+        "dataElement": "k3qjmPORaVd",
+        "comboOption": "k1FZjYOQOd5"
+    }
+   
+]
+ 
+}
