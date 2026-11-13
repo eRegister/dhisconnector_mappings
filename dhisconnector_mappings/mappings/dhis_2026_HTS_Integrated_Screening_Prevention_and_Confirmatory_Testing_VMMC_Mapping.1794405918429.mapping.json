@@ -1,0 +1,64 @@
+{
+  "name": "dhis_2026_HTS_Integrated_Screening_Prevention_and_Confirmatory_Testing_VMMC_Mapping",
+  "periodType": "Monthly",
+  "created": 1794405918429,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "HGQG4k0z7E3",
+  "periodIndicatorReportGUID": "012da06b-fce5-4416-abe8-466fd5b8c48f",
+
+  "elements": [
+    {
+      "indicator": "tbScrMVMMC",
+      "dataElement": "HK3lGrXzbN1",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "tbScrFVMMC",
+      "dataElement": "HK3lGrXzbN1",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "VMMCMCdDis",
+      "dataElement": "HEQBxEja5tR",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "VMMCFCdDis",
+      "dataElement": "HEQBxEja5tR",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "VMMCMLubs",
+      "dataElement": "UXTapkXcp8w",
+      "comboOption": "PSBywGSod9Z"
+    },
+    {
+      "indicator": "VMMCFLubs",
+      "dataElement": "UXTapkXcp8w",
+      "comboOption": "yR3ubhA3Ybp"
+    },
+    {
+      "indicator": "conPosVMMC",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hj4Ns8WpL2q"
+    },
+    {
+      "indicator": "conNegVMMC",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hm7Qr3TxK9v"
+    },
+    {
+      "indicator": "IndetVMMC",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hj4Ns8WpL2q"
+    },
+    {
+      "indicator": "VMMCSeroD",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hm7Qr3TxK9v"
+    }
+  ]
+
+
+  
+}

@@ -1,0 +1,222 @@
+{
+  "name": "dhis_2026_HIV_Testing_by_Population_Groups_Adolescent_Mapping",
+  "periodType": "Monthly",
+  "created": 1794480340690,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "H2VlqoRVjhi",
+  "periodIndicatorReportGUID": "c6226890-913c-48d3-8007-5e9b8b8654c3",
+
+  "elements": [
+    {
+      "indicator": "AdolMPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolMPos02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HofyA8E1X0H"
+    },
+    {
+      "indicator": "AdolFPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HUJNOP4TRBM"
+    },
+    {
+      "indicator": "AdolMPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HkCj5fGtZps"
+    },
+    {
+      "indicator": "AdolFPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "AdolMNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfdWsEVWd73"
+    },
+    {
+      "indicator": "AdolMNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hh3L4iJ1aFx"
+    },
+    {
+      "indicator": "AdolFNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "AdolMInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "AdolMInd02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd02",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "AdolMInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "AdolMInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "AdolMInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HZNO7LmUNfT"
+    },
+    {
+      "indicator": "AdolFInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HiFdEbIdIti"
+    },
+    {
+      "indicator": "AdolMInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "AdolMInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HflT21JeNfg"
+    },
+    {
+      "indicator": "AdolFInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    }
+  ]
+ 
+}

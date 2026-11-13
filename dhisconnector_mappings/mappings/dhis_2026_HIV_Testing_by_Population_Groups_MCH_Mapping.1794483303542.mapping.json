@@ -1,0 +1,102 @@
+{
+  "name": "dhis_2026_HIV_Testing_by_Population_Groups_MCH_Mapping",
+  "periodType": "Monthly",
+  "created": 1794483303542,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "HVwn07xMmCb",
+  "periodIndicatorReportGUID": "e831c1c1-d47f-4e96-b453-4abe30957b64",
+
+  "elements": [
+    {
+      "indicator": "MCHFPos01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HDFIOGNPOt0"
+    },
+    {
+      "indicator": "MCHFPos03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HirFnX8hpXX"
+    },
+    {
+      "indicator": "MCHFPos04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hbt8DYAVFHn"
+    },
+    {
+      "indicator": "MCHFPos05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HUJNOP4TRBM"
+    },
+    {
+      "indicator": "MCHFPos06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQCj8Rs2zbV"
+    },
+    {
+      "indicator": "MCHFPos07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HCrXQtu96Eh"
+    },
+    {
+      "indicator": "MCHFNeg01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "Hng3nY8hxqt"
+    },
+    {
+      "indicator": "MCHFNeg03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQGT5VBZB7j"
+    },
+    {
+      "indicator": "MCHFNeg04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HtBgSLP8yFv"
+    },
+    {
+      "indicator": "MCHFNeg05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfdWsEVWd73"
+    },
+    {
+      "indicator": "MCHFNeg06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HNl3nWfIzMq"
+    },
+    {
+      "indicator": "MCHFNeg07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H2MRcD9iPnm"
+    },
+    {
+      "indicator": "MCHFInd01",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HfphEFmppnb"
+    },
+    {
+      "indicator": "MCHFInd03",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVAgcfT4J6n"
+    },
+    {
+      "indicator": "MCHFInd04",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HuPECCxJl8I"
+    },
+    {
+      "indicator": "MCHFInd05",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HiFdEbIdIti"
+    },
+    {
+      "indicator": "MCHFInd06",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HsZSVFDxcBW"
+    },
+    {
+      "indicator": "MCHFInd07",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HW3wLWE6Lja"
+    }
+  ]
+
+}

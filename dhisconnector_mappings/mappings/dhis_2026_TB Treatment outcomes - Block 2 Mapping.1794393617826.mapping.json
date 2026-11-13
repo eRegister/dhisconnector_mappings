@@ -1,0 +1,90 @@
+{
+  "name": "dhis_2026_TB Treatment outcomes - Block 2 Mapping",
+  "periodType": "Monthly",
+  "created": 1794393617826,
+  "dataSetUID": "TA9uPQOJlhz",
+  "periodIndicatorReportGUID": "e24dad06-5de1-4215-b021-85b95585a56b",
+
+  "elements": [
+    {
+      "indicator": "ARTNw&Rl_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "X5EqCaquQdC"
+    },
+    {
+      "indicator": "ARTNw&Rl_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "QKu8KZtN9dK"
+    },
+    {
+      "indicator": "ARTRetr_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "X5EqCaquQdC"
+    },
+    {
+      "indicator": "ARTRetr_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "PlbzS7tBFgm"
+    },
+    {
+      "indicator": "DapNw&Rl_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "P58Ow8RmaSn"
+    },
+    {
+      "indicator": "DapNw&Rl_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "RVVAwyCwZrb"
+    },
+    {
+      "indicator": "DapRetre_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "P58Ow8RmaSn"
+    },
+    {
+      "indicator": "DapRetre_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "RVVAwyCwZrb"
+    },
+    {
+      "indicator": "PosNw&Rs_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "MQcMzHIUmO0"
+    },
+    {
+      "indicator": "PosNw&Rs_M",
+      "dataElement": "LtMp5lPLS1j",
+      "comboOption": "MaNlZ7JEXk7"
+    },
+    {
+      "indicator": "PosRetr_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "PssPEiZl4gz"
+    },
+    {
+      "indicator": "PosRetr_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "RomHFLjjZl9"
+    },
+    {
+      "indicator": "StsNw&Rs_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "IGhePDE6Gun"
+    },
+    {
+      "indicator": "StsNw&Rs_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "XcQxBCH11oi"
+    },
+    {
+      "indicator": "StsRetre_F",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "IGhePDE6Gun"
+    },
+    {
+      "indicator": "StsRetre_M",
+      "dataElement": "C5ohVQrxrPG",
+      "comboOption": "Ir4Pj0pG6iV"
+    }
+  ]
+}

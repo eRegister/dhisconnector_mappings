@@ -1,0 +1,62 @@
+{
+  "name": "dhis_2026_HTS_Integrated_Screening_Prevention_and_Confirmatory_Testing_Adol_Mapping",
+  "periodType": "Monthly",
+  "created": 1794406166749,
+  "dataSetUID": "H4tjrZW4PKx",
+  "attributeOptionCombo": "H2VlqoRVjhi",
+  "periodIndicatorReportGUID": "e2793bc2-4d7a-4bcb-8b40-e66ee86f50f9",
+
+  "elements": [
+    {
+      "indicator": "tbScrMAdol",
+      "dataElement": "HK3lGrXzbN1",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "tbScrFAdol",
+      "dataElement": "HK3lGrXzbN1",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "AdolMCdDis",
+      "dataElement": "HEQBxEja5tR",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "AdolFCdDis",
+      "dataElement": "HEQBxEja5tR",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "AdolMLubs",
+      "dataElement": "UXTapkXcp8w",
+      "comboOption": "PSBywGSod9Z"
+    },
+    {
+      "indicator": "AdolFLubs",
+      "dataElement": "UXTapkXcp8w",
+      "comboOption": "yR3ubhA3Ybp"
+    },
+    {
+      "indicator": "conPosAdol",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hj4Ns8WpL2q"
+    },
+    {
+      "indicator": "conNegAdol",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hm7Qr3TxK9v"
+    },
+    {
+      "indicator": "IndetAdol",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hj4Ns8WpL2q"
+    },
+    {
+      "indicator": "AdolSeroD",
+      "dataElement": "HS4LRjcDsks",
+      "comboOption": "Hm7Qr3TxK9v"
+    }
+  ]
+
+}

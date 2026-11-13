@@ -238,6 +238,23 @@
        "indicator": "STFInd07",
         "dataElement": "thPNZf3CvAa",
         "comboOption": "rfU1wksAsMD"
+    },
+    {
+        "indicator": "PregWomPos",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "HGJBnPpv23n"
+        
+    },
+    {
+        "indicator": "PregWomNeg",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "H7Do2R9F1jr"
+      
+    },
+    {
+       "indicator": "PregWomPos",
+        "dataElement": "thPNZf3CvAa",
+        "comboOption": "HS4FaDbMfmK"
     }
 ]
   
