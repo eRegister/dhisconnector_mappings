@@ -19,13 +19,13 @@
     },
     {
       "indicator": "STMPos02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HYBEhUaIWYO"
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "CPRKf51WsR0"
     },
     {
       "indicator": "STMPos02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HYBEhUaIWYO"
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "STMPos03",
@@ -94,8 +94,8 @@
     },
     {
       "indicator": "STFNeg02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HY5HyZ0x0Js"
+      "dataElement": "cveY8tQlzJ3",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "STMNeg03",
@@ -119,8 +119,9 @@
     },
     {
       "indicator": "STMNeg05",
-      "dataElement": "cveY8tQlzJ3",
-      "comboOption": "KzDx5zJMhyo"
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGU0SJJ6GYu"
+      
     },
     {
       "indicator": "STFNeg05",
@@ -164,8 +165,8 @@
     },
     {
       "indicator": "STFInd02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HuemkqAoHEm"
+      "dataElement": "thPNZf3CvAa",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "STMInd03",
@@ -223,14 +224,29 @@
       "comboOption": "HGJBnPpv23n"
     },
     {
-      "indicator": "STMInd07",
+      "indicator": "PregWomNeg",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HLJwdNyVPgi"
+      "comboOption": "H7Do2R9F1jr"
     },
     {
-      "indicator": "STFInd07",
+      "indicator": "PregWomInd",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "comboOption": "HS4FaDbMfmK"
+    },
+    {
+      "indicator": "BFWPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQ6rLrQiQTl"
+    },
+    {
+      "indicator": "BFWNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVdvSk47noS"
+    },
+    {
+      "indicator": "BFWInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HXglTwW1bBS"
     }
   ]
 

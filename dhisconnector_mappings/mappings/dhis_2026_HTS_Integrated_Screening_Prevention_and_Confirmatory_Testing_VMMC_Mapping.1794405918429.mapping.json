@@ -29,13 +29,13 @@
     },
     {
       "indicator": "VMMCMLubs",
-      "dataElement": "UXTapkXcp8w",
-      "comboOption": "PSBywGSod9Z"
+      "dataElement": "Hjy1vjk2G6h",
+      "comboOption": "HmQ6sTXYW4a"
     },
     {
       "indicator": "VMMCFLubs",
-      "dataElement": "UXTapkXcp8w",
-      "comboOption": "yR3ubhA3Ybp"
+      "dataElement": "Hjy1vjk2G6h",
+      "comboOption": "HhCK6LzjFSK"
     },
     {
       "indicator": "conPosVMMC",
@@ -49,16 +49,40 @@
     },
     {
       "indicator": "IndetVMMC",
-      "dataElement": "HS4LRjcDsks",
-      "comboOption": "Hj4Ns8WpL2q"
+      "dataElement": "vk8xW93Cm4K",
+      "comboOption": "zyqirkIlhus"
     },
     {
       "indicator": "VMMCSeroD",
-      "dataElement": "HS4LRjcDsks",
+      "dataElement": "HV6eu4QhzWK",
+      "comboOption": "HllvX50cXC0"
+      
+    },
+    {
+      "indicator": "MIScrM",
+      "dataElement": "HHA34boLw57",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "MIScrF",
+      "dataElement": "HHA34boLw57",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "CTPos",
+      "dataElement": "HCcYp4yTlDm",
+      "comboOption": "Hj4Ns8WpL2q"
+
+      
+    },
+    {
+      "indicator": "CTNeg",
+      "dataElement": "HCcYp4yTlDm",
       "comboOption": "Hm7Qr3TxK9v"
     }
+ 
   ]
 
 
-  
+
 }

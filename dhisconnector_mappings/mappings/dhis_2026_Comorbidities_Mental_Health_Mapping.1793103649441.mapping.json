@@ -7,42 +7,42 @@
     "elements": [
         {
             "indicator": "<15screDpM",
-            "dataElement": "Fn6pj2HRCTw",
+            "dataElement": "ULAB2mMc1qN",
             "comboOption": "SnHLs9gyEd2"
         },
         {
             "indicator": "<15screDpF",
-            "dataElement": "Fn6pj2HRCTw",
+            "dataElement": "ULAB2mMc1qN",
             "comboOption": "yX1jtB3P1Dw"
         },
         {
             "indicator": ">15screDpM",
-            "dataElement": "Fn6pj2HRCTw",
+            "dataElement": "ULAB2mMc1qN",
             "comboOption": "N7ZhrDhrGyQ"
         },
         {
             "indicator": ">15screDpF",
-            "dataElement": "Fn6pj2HRCTw",
+            "dataElement": "ULAB2mMc1qN",
             "comboOption": "AzfgnzJeoRb"
         },
         {
             "indicator": "<15diagDpM",
-            "dataElement": "ebt70hRJCN3",
+            "dataElement": "DWVvJtqO66O",
             "comboOption": "SnHLs9gyEd2"
         },
         {
             "indicator": "<15diagDpF",
-            "dataElement": "ebt70hRJCN3",
+            "dataElement": "DWVvJtqO66O",
             "comboOption": "yX1jtB3P1Dw"
         },
         {
             "indicator": ">15diagDpM",
-            "dataElement": "ebt70hRJCN3",
+            "dataElement": "DWVvJtqO66O",
             "comboOption": "N7ZhrDhrGyQ"
         },
         {
             "indicator": ">15diagDpF",
-            "dataElement": "ebt70hRJCN3",
+            "dataElement": "DWVvJtqO66O",
             "comboOption": "AzfgnzJeoRb"
         },
         {
@@ -87,22 +87,22 @@
         },
         {
             "indicator": "<15diagGDM",
-            "dataElement": "zL9EHaCcQLW",
+            "dataElement": "SBXptCN9UMI",
             "comboOption": "SnHLs9gyEd2"
         },
         {
             "indicator": "<15diagGDF",
-            "dataElement": "zL9EHaCcQLW",
+            "dataElement": "SBXptCN9UMI",
             "comboOption": "yX1jtB3P1Dw"
         },
         {
             "indicator": ">15diagGDM",
-            "dataElement": "zL9EHaCcQLW",
+            "dataElement": "SBXptCN9UMI",
             "comboOption": "N7ZhrDhrGyQ"
         },
         {
             "indicator": ">15diagGDF",
-            "dataElement": "zL9EHaCcQLW",
+            "dataElement": "SBXptCN9UMI",
             "comboOption": "AzfgnzJeoRb"
         },
         {

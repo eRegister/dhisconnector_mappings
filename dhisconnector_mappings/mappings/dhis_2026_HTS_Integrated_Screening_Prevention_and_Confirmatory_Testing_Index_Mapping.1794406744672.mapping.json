@@ -29,34 +29,55 @@
     },
     {
       "indicator": "IndxMLubs",
-      "dataElement": "UXTapkXcp8w",
-      "comboOption": "PSBywGSod9Z"
+      "dataElement": "Hjy1vjk2G6h",
+      "comboOption": "HmQ6sTXYW4a"
     },
     {
       "indicator": "IndxFLubs",
-      "dataElement": "UXTapkXcp8w",
-      "comboOption": "yR3ubhA3Ybp"
+      "dataElement": "Hjy1vjk2G6h",
+      "comboOption": "HhCK6LzjFSK"
     },
     {
       "indicator": "conPosIndx",
-      "dataElement": "HS4LRjcDsks",
-      "comboOption": "Hj4Ns8WpL2q"
+      "dataElement": "vk8xW93Cm4K",
+      "comboOption": "IPrN94OW1SD"
     },
     {
       "indicator": "conNegIndx",
-      "dataElement": "HS4LRjcDsks",
-      "comboOption": "Hm7Qr3TxK9v"
+      "dataElement": "vk8xW93Cm4K",
+      "comboOption": "ndi0J5GKwId"
     },
     {
       "indicator": "IndetIndx",
-      "dataElement": "HS4LRjcDsks",
-      "comboOption": "Hj4Ns8WpL2q"
+      "dataElement": "vk8xW93Cm4K",
+      "comboOption": "zyqirkIlhus"
     },
     {
       "indicator": "IndxSeroD",
-      "dataElement": "HS4LRjcDsks",
-      "comboOption": "Hm7Qr3TxK9v"
+      "dataElement": "HV6eu4QhzWK",
+      "comboOption": "HllvX50cXC0"
+    },
+    {
+      "indicator": "MIScrM",
+      "dataElement": "HHA34boLw57",
+      "comboOption": "HmQ6sTXYW4a"
+    },
+    {
+      "indicator": "MIScrF",
+      "dataElement": "HHA34boLw57",
+      "comboOption": "HhCK6LzjFSK"
+    },
+    {
+      "indicator": "CTPos",
+      "dataElement": "XatzAFRX2pJ",
+      "comboOption": "q0DSpILLfFR"
+    },
+    {
+      "indicator": "CTNeg",
+      "dataElement": "XatzAFRX2pJ",
+      "comboOption": "QMhCutE6767"
     }
   ]
+
 
 }

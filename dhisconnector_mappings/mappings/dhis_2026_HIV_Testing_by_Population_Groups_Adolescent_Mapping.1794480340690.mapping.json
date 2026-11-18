@@ -10,42 +10,42 @@
     {
       "indicator": "AdolMPos01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HkCj5fGtZps"
+      "comboOption": "HMcYhIiyrur"
     },
     {
       "indicator": "AdolFPos01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HQCj8Rs2zbV"
+      "comboOption": "HDFIOGNPOt0"
     },
     {
       "indicator": "AdolMPos02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HkCj5fGtZps"
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "CPRKf51WsR0"
     },
     {
       "indicator": "AdolMPos02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HQCj8Rs2zbV"
+      "dataElement": "RrkyxgeJM3n",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "AdolMPos03",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HkCj5fGtZps"
+      "comboOption": "HGXuCxPZimc"
     },
     {
       "indicator": "AdolFPos03",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HQCj8Rs2zbV"
+      "comboOption": "HirFnX8hpXX"
     },
     {
       "indicator": "AdolMPos04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HkCj5fGtZps"
+      "comboOption": "HT6XINO7DkR"
     },
     {
       "indicator": "AdolFPos04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HQCj8Rs2zbV"
+      "comboOption": "Hbt8DYAVFHn"
     },
     {
       "indicator": "AdolMPos05",
@@ -60,7 +60,7 @@
     {
       "indicator": "AdolMPos06",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HkCj5fGtZps"
+      "comboOption": "HNxM2HFSD2I"
     },
     {
       "indicator": "AdolFPos06",
@@ -75,27 +75,27 @@
     {
       "indicator": "AdolFPos07",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HQCj8Rs2zbV"
+      "comboOption": "HCrXQtu96Eh"
     },
     {
       "indicator": "AdolMNeg01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "HlSzSVjUigD"
     },
     {
       "indicator": "AdolFNeg01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HNl3nWfIzMq"
+      "comboOption": "Hng3nY8hxqt"
     },
     {
       "indicator": "AdolMNeg02",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "HY5HyZ0x0Js"
     },
     {
       "indicator": "AdolFNeg02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HNl3nWfIzMq"
+      "dataElement": "cveY8tQlzJ3",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "AdolMNeg03",
@@ -105,22 +105,22 @@
     {
       "indicator": "AdolFNeg03",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HNl3nWfIzMq"
+      "comboOption": "HQGT5VBZB7j"
     },
     {
       "indicator": "AdolMNeg04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "HF8mQdZbfRY"
     },
     {
       "indicator": "AdolFNeg04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HNl3nWfIzMq"
+      "comboOption": "HtBgSLP8yFv"
     },
     {
       "indicator": "AdolMNeg05",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "HGU0SJJ6GYu"
     },
     {
       "indicator": "AdolFNeg05",
@@ -130,7 +130,7 @@
     {
       "indicator": "AdolMNeg06",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "HQkCwovFyyY"
     },
     {
       "indicator": "AdolFNeg06",
@@ -140,32 +140,32 @@
     {
       "indicator": "AdolMNeg07",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "Hh3L4iJ1aFx"
+      "comboOption": "Hxt0afSJybT"
     },
     {
       "indicator": "AdolFNeg07",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HNl3nWfIzMq"
+      "comboOption": "H2MRcD9iPnm"
     },
     {
       "indicator": "AdolMInd01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HflT21JeNfg"
+      "comboOption": "HMUPEpj9gNs"
     },
     {
       "indicator": "AdolFInd01",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "comboOption": "HfphEFmppnb"
     },
     {
       "indicator": "AdolMInd02",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HflT21JeNfg"
+      "comboOption": "HuemkqAoHEm"
     },
     {
       "indicator": "AdolFInd02",
-      "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "dataElement": "thPNZf3CvAa",
+      "comboOption": "caoEYiFkaDD"
     },
     {
       "indicator": "AdolMInd03",
@@ -175,22 +175,22 @@
     {
       "indicator": "AdolFInd03",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "comboOption": "HVAgcfT4J6n"
     },
     {
       "indicator": "AdolMInd04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HflT21JeNfg"
+      "comboOption": "HuMJlHyzC3c"
     },
     {
       "indicator": "AdolFInd04",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "comboOption": "HuPECCxJl8I"
     },
     {
       "indicator": "AdolMInd05",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HZNO7LmUNfT"
+      "comboOption": "HGU0SJJ6GYu"
     },
     {
       "indicator": "AdolFInd05",
@@ -200,23 +200,54 @@
     {
       "indicator": "AdolMInd06",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HflT21JeNfg"
+      "comboOption": "HE53auCUB0q"
     },
     {
       "indicator": "AdolFInd06",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HW3wLWE6Lja"
+      "comboOption": "HsZSVFDxcBW"
     },
     {
       "indicator": "AdolMInd07",
       "dataElement": "Ha5DYIIYoGD",
-      "comboOption": "HflT21JeNfg"
+      "comboOption": "HLJwdNyVPgi"
     },
     {
       "indicator": "AdolFInd07",
       "dataElement": "Ha5DYIIYoGD",
       "comboOption": "HW3wLWE6Lja"
+    },
+    {
+      "indicator": "PregWomPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HGJBnPpv23n"
+    },
+    {
+      "indicator": "PregWomNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "H7Do2R9F1jr"
+    },
+    {
+      "indicator": "PregWomInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HS4FaDbMfmK"
+    },
+    {
+      "indicator": "BFWPos",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HQ6rLrQiQTl"
+    },
+    {
+      "indicator": "BFWNeg",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HVdvSk47noS"
+    },
+    {
+      "indicator": "BFWInd",
+      "dataElement": "Ha5DYIIYoGD",
+      "comboOption": "HXglTwW1bBS"
     }
   ]
+
  
 }
